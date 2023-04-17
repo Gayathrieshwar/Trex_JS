@@ -4,11 +4,11 @@ var gameState = PLAY;
 
 var trex, trex_running, trex_collided;
 var ground, invisibleGround, groundImage;
-
+var score=0;
 var cloudsGroup, cloudImage;
 var obstaclesGroup, obstacle1, obstacle2, obstacle3, obstacle4, obstacle5, obstacle6;
 
-var score=0;
+
 
 var gameOver, restart;
 

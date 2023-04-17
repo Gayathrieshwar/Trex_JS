@@ -4,5 +4,5 @@ html, body {
 }
 canvas {
   display: block;
-  border: darkblue solid;
+  border: rgb(139, 72, 0) dotted;
 }
